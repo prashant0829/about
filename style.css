@@ -11,10 +11,6 @@ header {
   padding: 0px 0px 0px 10px;
   box-shadow: rgba(0, 0, 0, 0.15) 4.4px 4.4px 13.2px;
 }
-
-/* svg:not(:root).svg-inline--fa {
-  color: #00296b;
-} */
 .svg-box {
   background: none;
   width: 100%;
